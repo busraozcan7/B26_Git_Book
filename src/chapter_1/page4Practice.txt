@@ -1,0 +1,2 @@
+parameter: name inside of the method.
+argument: value given to call the method.
