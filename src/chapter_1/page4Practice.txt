@@ -1,2 +1,5 @@
-parameter: name inside of the method.
-argument: value given to call the method.
+parameter:() name inside of the method.
+argument: value given to call the method.Hello world
+I walk 3 miles.
+edit new
+
