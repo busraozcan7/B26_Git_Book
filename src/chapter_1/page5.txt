@@ -1,0 +1,3 @@
+Welcome to class.
+Java is fun.
+We start to use github.
