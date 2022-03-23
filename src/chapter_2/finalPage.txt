@@ -1,0 +1,8 @@
+
+so for we learn git low for 
+commit-- push
+
+and 
+
+remote-->local
+pull/uptade
